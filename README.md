@@ -4,3 +4,5 @@
 created for computer modeling class 1/20/2016
 
 learning git is stupid
+
+Let’s try this again
